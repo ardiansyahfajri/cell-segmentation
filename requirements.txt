@@ -5,4 +5,6 @@ gdown
 flask-cors
 flask
 ultralytics==8.0.28
+pyyaml
+from_root
 -e .
